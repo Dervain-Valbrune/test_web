@@ -1,2 +1,7 @@
-div{
+.div1{
+	background-color:gray;
+	font-size:30px;
+	color:white;
+	text-align:center;
+	overflow:auto;
 }
